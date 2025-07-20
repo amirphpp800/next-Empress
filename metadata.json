@@ -1,0 +1,5 @@
+
+{
+  "name": "IP Geolocation Lookup",
+  "description": "An application to generate random IP addresses from predefined CIDR ranges and fetch their geolocation and ISP information."
+}
